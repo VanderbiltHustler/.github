@@ -14,7 +14,7 @@ Interactive Stories are hosted on Github Pages with public repos, while Data Ana
   - [Class of 2027 First Year Survey](https://github.com/VanderbiltHustler/Classof2027FirstYearSurvey) (2024)
 - ### Data Analysis 
   - [Palestine Protests](https://github.com/VanderbiltHustler/Palestine-Protests) (2024)
-    - Read here: [How Vanderbilt’s Kirkland Hall sit-in and encampment influenced last semester’s wave of pro-Palestine protests](https://vanderbilthustler.com/2024/09/02/how-vanderbilts-kirkland-hall-sit-in-and-encampment-influenced-last-semesters-wave-of-pro-palestine-protests/)
+  - Read here: [How Vanderbilt’s Kirkland Hall sit-in and encampment influenced last semester’s wave of pro-Palestine protests](https://vanderbilthustler.com/2024/09/02/how-vanderbilts-kirkland-hall-sit-in-and-encampment-influenced-last-semesters-wave-of-pro-palestine-protests/)
   - [Midterm Analysis](https://github.com/VanderbiltHustler/WhatIsAMidterm) (2024)
     - Read here: [What is a midterm?](https://vanderbilthustler.com/2024/04/22/what-is-a-midterm/)
   - [Datamatch](https://github.com/VanderbiltHustler/Datamatch2024) (2024)
