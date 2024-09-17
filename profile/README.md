@@ -1,6 +1,4 @@
-## Hi there! 👋
-
-You've reached the landing page for the Vanderbilt Hustler Data Team's GitHub. 
+## You've reached the landing page for the Vanderbilt Hustler Data Team's GitHub. 
 
 Updated: 9/17/2024
 
