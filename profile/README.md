@@ -5,7 +5,7 @@ Interactive Stories are hosted on Github Pages with public repos, while Data Ana
 
 <br> Updated: 9/17/2024 <br>
 
-## Projects in this organization:
+## Repos in this organization:
 
 - ### Interactive Stories
   - [Class of 2024 Senior Survey](https://github.com/VanderbiltHustler/Classof2024SeniorSurvey) (2024)
