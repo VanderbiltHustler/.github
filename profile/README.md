@@ -13,6 +13,7 @@ Interactive Stories are hosted on Github Pages with public repos, while Data Ana
   - [March Madness 2024](https://github.com/VanderbiltHustler/MarchMadness2024) (2024)
   - [Class of 2027 First Year Survey](https://github.com/VanderbiltHustler/Classof2027FirstYearSurvey) (2024)
 - ### Data Analysis 
+  - [Vanderbilt Faculty Political Donations]() (2024) (WIP)
   - [Palestine Protests](https://github.com/VanderbiltHustler/Palestine-Protests) (2024)
   - Read here: [How Vanderbilt’s Kirkland Hall sit-in and encampment influenced last semester’s wave of pro-Palestine protests](https://vanderbilthustler.com/2024/09/02/how-vanderbilts-kirkland-hall-sit-in-and-encampment-influenced-last-semesters-wave-of-pro-palestine-protests/)
   - [Midterm Analysis](https://github.com/VanderbiltHustler/WhatIsAMidterm) (2024)
@@ -22,7 +23,7 @@ Interactive Stories are hosted on Github Pages with public repos, while Data Ana
 - ### Tools
   - [Waitz Scraper](https://github.com/VanderbiltHustler/Scraper-WaitzApp) (WIP)
   - [PDF Parser](https://github.com/VanderbiltHustler/PDFParser) (WIP)
-  - [Vandy Games]() (WIP)
+  - [Vandy Games](https://github.com/VanderbiltHustler/VandyGames) (WIP)
 - ### [GitHub Training](https://github.com/VanderbiltHustler/GitHubTraining)
 
 ## Our Team:
