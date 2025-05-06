@@ -27,7 +27,5 @@ Interactive Stories are hosted on Github Pages with public repos, while Data Ana
 - ### [GitHub Training](https://github.com/VanderbiltHustler/GitHubTraining)
 
 ## Our Team:
-- Data Editor: Katherine Oung
-- Deputy Data Editor: Coco Louie
-- Deputy Data Survey Editor: Nate Morrin
+- Data Editor: Alexander Cheng
 - Deputy Data Web Dev Editor: Sean Onamade 
